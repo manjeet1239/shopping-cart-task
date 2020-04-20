@@ -1,0 +1,133 @@
+.App {
+  text-align: center;
+}
+
+
+
+.main{
+  align-items: center;
+  margin-left:35% !important;
+}
+.img{
+  width: 100px;
+}
+.left{
+  padding-top: 70px;
+  text-align: left;
+  font-weight:bold;
+  display: flex;
+  flex-direction: column;
+}
+.left1{
+  text-align: left;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+.left2{
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+.left3{
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  text-decoration: line-through;
+}
+.left4{
+  text-align: left;
+  font-weight:bold;
+  display: flex;
+  flex-direction: column;
+}
+.left5{
+
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+.btn{
+  border-radius: 10px;
+  height: 35px;
+  width: 150px;
+  background:lightgreen;
+  flex: 1;
+  
+}
+.inc-dec-button{ 
+  background-color: lightgreen;
+  border-radius: 10px;
+  margin-left: 10px;
+   height: 30px;
+  width:  30px;
+}
+.inc-dec-button1{ 
+  background-color: lightgreen;
+  border-radius: 10px;
+  margin-left: 120px;
+   height: 30px;
+  width:  30px;  
+}
+
+.add-delete-button{
+  display:flex !important;
+  flex-direction: row !important;
+  margin-top: 10px;
+}
+.quantity{
+  color: red;
+  margin-left: 10px;
+  margin-top: 1px;
+}
+
+
+/* Item css */
+.p-card{
+  display:flex !important;
+  flex-direction: row !important;
+  margin-top:10% !important;
+
+}
+
+.product-details{
+  display: flex !important;
+  flex-direction: column;
+}
+.brand-name{
+  color:green !important;
+}
+.product-view{
+  display: flex !important;
+  flex-direction: column;
+
+}
+.mt-1{
+  margin-top:-2% !important;
+ 
+}
+.ml-89{
+  margin-top:-2% !important;
+  margin-left: -89% !important;
+}
+.hr{
+  color:red !important;
+  height:1px !important;
+  width:70% !important;
+  background-color:blue;
+  margin-top:5% !important;
+  margin-bottom:2% !important;
+ 
+}
+.items{
+  position: static;
+  margin-top:3% !important;
+}
+
+.para{
+  text-align: left !important;
+  margin-top:-2% !important;
+}
+.brand{
+  color: darkgreen;
+}

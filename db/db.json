@@ -1,0 +1,108 @@
+{
+    "Procuts_Lists": [
+        {
+            "Brand_Name": "Protinex",
+            "Product_name": "Protinex Health Drink",
+            "Quantity": "400 g",
+            "MRP": 400,
+            "Price": 520,
+            "Image_URL": "https://5.imimg.com/data5/RS/WJ/MY-2597735/protinex-health-drink-500x500.jpg",
+            "Offer_Text": "5% OFF",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "Amul Ghee",
+            "Product_name": "Rich texture, Fresh Cream used, Typical rich aroma, Granular texture",
+            "Quantity": "1 kg",
+            "MRP": 465,
+            "Price": 427,
+            "Image_URL": "https://awesomedairy.com/wp-content/uploads/2016/12/Amul-Pure-Ghee-1-liter-Pouch.jpg",
+            "Offer_Text": "8% OFF",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "MilkFood",
+            "Product_name": "Milkfood Rich Desi Dander Ghee Pack Online at Low Prices in India",
+            "Quantity": "1 lit",
+            "MRP": 155,
+            "Price": 139,
+            "Image_URL": "https://mahadev-store.s3.ap-south-1.amazonaws.com/images/2018/07/1532150768_gallery_image_urlghee-milkfood-1kg.png",
+            "Offer_Text": "10% OFF",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "horlicks",
+            "Product_name": "Horlicks Health & Nutrition drink - 1 kg Pet Jar (Classic Malt)",
+            "Quantity": "1 kg",
+            "MRP": 390,
+            "Price": 440,
+            "Image_URL": "https://images-na.ssl-images-amazon.com/images/I/81Hy6WCPM1L._SX425_.jpg",
+            "Offer_Text": "8% OFF",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "KELLOGG'S CORN",
+            "Product_name": "Natural Food Products For a Healthy Life",
+            "Quantity": "1kg",
+            "MRP": 400,
+            "Price": 656,
+            "Image_URL": "https://dj6jk95bd3eek.cloudfront.net/catalog/product/cache/b5b0711788eef5adfc8204a51e1e919e/k/e/kelloggs_almond_corn_flakes_300g_carton.jpg",
+            "Offer_Text": "18% OFF",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "Aashirvaad",
+            "Product_name": "Aashirvaad Shudh Chakki Whole Wheat Atta",
+            "Quantity": "5kg",
+            "MRP": 375,
+            "Price": 356,
+            "Image_URL": "https://www.indiansklep.com/wp-content/uploads/2017/12/pro_333324.jpg",
+            "Offer_Text": "5% OFF",
+            "selected_quantity": 0
+        },
+        
+        
+        {
+            "Brand_Name": "Fortune",
+            "Product_name": "Fortune Kachi Ghani Pure Mustard Oil",
+            "Quantity": "1l",
+            "MRP": 152,
+            "Price": 125,
+            "Image_URL": "https://images-na.ssl-images-amazon.com/images/I/41YDq-tchUL._SX425_.jpg",
+            "Offer_Text": "15%",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "Daawat Rozana",
+            "Product_name": "Daawat Rozana Super Basmati Rice",
+            "Quantity": "5 kg",
+            "MRP": 505,
+            "Price": 464,
+            "Image_URL": "https://images-na.ssl-images-amazon.com/images/I/81DhZXIWX9L._SL1500_.jpg",
+            "Offer_Text": "8%",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "Amul Ghee",
+            "Product_name": "Rich texture, Fresh Cream used, Typical rich aroma, Granular texture",
+            "Quantity": "2 kg",
+            "MRP": 900,
+            "Price": 810,
+            "Image_URL": "https://awesomedairy.com/wp-content/uploads/2016/12/Amul-Pure-Ghee-1-liter-Pouch.jpg",
+            "Offer_Text": "10%",
+            "selected_quantity": 0
+        },
+        {
+            "Brand_Name": "Balaji-Chanadal-namkeen",
+            "Product_name": "Balaji-Chanadal-namkeen",
+            "Quantity": "100 g",
+            "MRP": 40,
+            "Price": 30,
+            "Image_URL": "https://www.dzon.in/wp-content/uploads/2019/08/BALAJI-CHANA-DAL-200GM.jpg",
+            "Offer_Text": "8% OFF",
+            "selected_quantity": 0
+        }
+        
+        
+    ]
+}
