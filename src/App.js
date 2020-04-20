@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <ProductsList
-        productTitle="Grocery Products"
+        productTitle="Grocery Products mmmmmmm"
       />
     </div>
   );
